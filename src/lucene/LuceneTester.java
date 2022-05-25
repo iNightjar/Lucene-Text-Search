@@ -17,7 +17,7 @@ public class LuceneTester {
 	 try {
 	 tester = new LuceneTester();
 	 tester.createIndex();
-	 tester.search("mazen");
+	 tester.search("inightjar");
 	 } catch (IOException e) {
 	 e.printStackTrace();
 	 } catch (ParseException e) {
