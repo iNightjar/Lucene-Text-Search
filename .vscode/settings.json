@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Lucene Jar File/lucene-core-3.6.2.jar"
+    ]
+}
