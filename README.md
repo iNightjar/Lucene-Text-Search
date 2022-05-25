@@ -1,4 +1,4 @@
-### Text Search Console Application Using Apache Lucene Library
+## `Text Search Console Application Using Apache Lucene Library`
 
 <br>
 
